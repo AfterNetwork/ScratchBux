@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to ScratchBux
 
-You can use the [editor on GitHub](https://github.com/MCloverz/ScratchBux/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the official ScratchBux website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[ScratchBux](https://scratch.mit.edu/discuss/topic/353268) is a virtual currency available on Scratch that you can use right now!
 
 ### Markdown
 
