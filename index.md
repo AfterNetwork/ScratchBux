@@ -1,3 +1,6 @@
+---
+title: ScratchBux
+---
 ![Image](/ScratchBux/icon.png)
 ## Welcome to ScratchBux
 Welcome to the official ScratchBux website!
