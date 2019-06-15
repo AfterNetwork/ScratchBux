@@ -22,13 +22,23 @@ We have little to no inflation and are simple. We only have some rules you need 
 ### Our Staff
 
 Founder: @smileycreations15
+
 Vice Founder: @AFNNetworkK12, @CaptainRatlex
+
 President: @DragonBallZ-RAS, @ajsya
+
 Manager: @glitterspring1
+
 Executive Officer: @FrenchBread49
+
 Chairman: @MClovers
+
 Vice-Chairman: @jbrow78
+
 Secretary: @Fronztess123
+
 Supervisor: None
+
 Moderator: @ZPgaming
+
 Shop Checker: None
