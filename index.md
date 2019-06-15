@@ -4,9 +4,10 @@ Welcome to the official ScratchBux website!
 
 [ScratchBux](https://scratch.mit.edu/discuss/topic/353268) is a virtual currency available on Scratch that you can use right now!
 
-### Markdown
+### Why ScratchBux?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Why should I use ScratchBux over other currencies?
+We have little to no inflation and are simple. We only have some rules you need to follow to stay a happy ScratchBux user!
 
 ```markdown
 Syntax highlighted code block
