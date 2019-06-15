@@ -1,5 +1,5 @@
 ## Welcome to ScratchBux
-
+![Image](http://i63.tinypic.com/2vl0js9.jpg)
 Welcome to the official ScratchBux website!
 
 [ScratchBux](https://scratch.mit.edu/discuss/topic/353268) is a virtual currency available on Scratch that you can use right now!
