@@ -17,7 +17,7 @@ We have little to no inflation and are simple. We only have some rules you need 
 4. For each complete InstaOrder order that is completed in more than 30 hours, you will lose 2 SCB.
 5. Scamming will lose you 200 ScratchBux.
 6. Breaking a rule of a shop or organization or saying that you joined the organization when you didn't join loses you 50 SCB.
-6. In any way of abusing the currency, you could get banned or warned.
+7. In any way of abusing the currency, you could get banned or warned.
 
 ### Our Staff
 
@@ -29,6 +29,6 @@ We have little to no inflation and are simple. We only have some rules you need 
 - Chairman: @MClovers
 - Vice-Chairman: @jbrow78
 - Secretary: @Fronztess123
-- Supervisor: None
-- Moderator: @ZPgaming
-- Shop Checker: None
+- Supervisor: open
+- Moderator: @ZPgaming, open
+- Shop Checker: open
