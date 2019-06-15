@@ -9,30 +9,26 @@ Welcome to the official ScratchBux website!
 Why should I use ScratchBux over other currencies?
 We have little to no inflation and are simple. We only have some rules you need to follow to stay a happy ScratchBux user!
 
-```markdown
-Syntax highlighted code block
+### Our Rules
 
-# Header 1
-## Header 2
-### Header 3
+1. Creating alt accounts to get SCB is not allowed
+2. For each complete order, you will get 3 SCB
+3. For each complete InstaOrder order that is completed in less than 30 hours, you will get 5 SCB
+4. For each complete InstaOrder order that is completed in more than 30 hours, you will lose 2 SCB.
+5. Scamming will lose you 200 ScratchBux.
+6. Breaking a rule of a shop or organization or saying that you joined the organization when you didn't join loses you 50 SCB.
+6. In any way of abusing the currency, you could get banned or warned.
 
-- Bulleted
-- List
+### Our Staff
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MCloverz/ScratchBux/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Founder: @smileycreations15
+Vice Founder: @AFNNetworkK12, @CaptainRatlex
+President: @DragonBallZ-RAS, @ajsya
+Manager: @glitterspring1
+Executive Officer: @FrenchBread49
+Chairman: @MClovers
+Vice-Chairman: @jbrow78
+Secretary: @Fronztess123
+Supervisor: None
+Moderator: @ZPgaming
+Shop Checker: None
