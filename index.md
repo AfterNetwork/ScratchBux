@@ -33,5 +33,5 @@ We have little to no inflation and are simple. We only have some rules you need 
 - Vice-Chairman: @jbrow78
 - Secretary: @Fronztess123
 - Supervisor: open
-- Moderator: @ZPgaming, open
+- Moderator: @ZPgaming, @partypalace, open
 - Shop Checker: open
