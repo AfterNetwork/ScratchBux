@@ -36,4 +36,4 @@ Vice Chairman | @jbrow78
 Secretary | @Fronztess123
 Supervisor | Open
 Moderator | @ZPgaming, @partypalace
-Shop Checker @Dragonlord767
+Shop Checker | @Dragonlord767
